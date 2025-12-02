@@ -1,0 +1,35 @@
+body {
+  background: #192546;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial;
+}
+
+.box {
+  background: white;
+  padding: 30px;
+  width: 350px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.input {
+  width: 100%;
+  padding: 12px;
+  margin-top: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.btn {
+  margin-top: 20px;
+  width: 100%;
+  padding: 12px;
+  background: #192546;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+}
